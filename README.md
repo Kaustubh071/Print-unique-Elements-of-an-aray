@@ -1,1 +1,1 @@
-# Print-unique-Elements-of-an-aray
+# Print-unique-Elements-of-an-array
